@@ -1,0 +1,13 @@
+In this file ,I will share a code in c++ with you.
+this is the code: 
+"#include<iostream>
+using namespace std;
+int main(){
+	int t;cin>>t;
+	while(t--){
+	
+	ll x,y;cin>>x>>y;
+	if(x*x>2*y*y) cout<<"1\n";
+	else cout<<"2\n";
+	}
+}              "
